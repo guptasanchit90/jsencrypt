@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguptasanchit90%2Fjsencrypt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguptasanchit90%2Fjsencrypt?ref=badge_shield)
+
 FORKED FROM - https://github.com/travist/jsencrypt
 
 Website
@@ -167,3 +169,7 @@ exponent2 => dmq1
 coefficient => coeff
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fguptasanchit90%2Fjsencrypt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fguptasanchit90%2Fjsencrypt?ref=badge_large)
